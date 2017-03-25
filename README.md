@@ -1,2 +1,2 @@
 # curso-auto-build
-Teste de build automético no Dockerhub
+Teste de build automático no Dockerhub
